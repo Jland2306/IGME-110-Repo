@@ -2,9 +2,15 @@
 
 ---
 
-## Level-2 header
+## Links !!!
+- https://www.rit.edu/
 
 ## Colors
-- red
-- green
-- blue
+- Red
+- Green
+- Blue
+1. Cyan
+2. Magenta
+3. Yellow
+
+
